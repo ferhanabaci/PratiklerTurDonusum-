@@ -1,0 +1,16 @@
+C:\Users\ferhan\Desktop\Pratikler\tıp-donusumler\bin\Debug\net5.0\tıp-donusumler.exe
+C:\Users\ferhan\Desktop\Pratikler\tıp-donusumler\bin\Debug\net5.0\tıp-donusumler.deps.json
+C:\Users\ferhan\Desktop\Pratikler\tıp-donusumler\bin\Debug\net5.0\tıp-donusumler.runtimeconfig.json
+C:\Users\ferhan\Desktop\Pratikler\tıp-donusumler\bin\Debug\net5.0\tıp-donusumler.runtimeconfig.dev.json
+C:\Users\ferhan\Desktop\Pratikler\tıp-donusumler\bin\Debug\net5.0\tıp-donusumler.dll
+C:\Users\ferhan\Desktop\Pratikler\tıp-donusumler\bin\Debug\net5.0\ref\tıp-donusumler.dll
+C:\Users\ferhan\Desktop\Pratikler\tıp-donusumler\bin\Debug\net5.0\tıp-donusumler.pdb
+C:\Users\ferhan\Desktop\Pratikler\tıp-donusumler\obj\Debug\net5.0\tıp-donusumler.csprojAssemblyReference.cache
+C:\Users\ferhan\Desktop\Pratikler\tıp-donusumler\obj\Debug\net5.0\tıp-donusumler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhan\Desktop\Pratikler\tıp-donusumler\obj\Debug\net5.0\tıp-donusumler.AssemblyInfoInputs.cache
+C:\Users\ferhan\Desktop\Pratikler\tıp-donusumler\obj\Debug\net5.0\tıp-donusumler.AssemblyInfo.cs
+C:\Users\ferhan\Desktop\Pratikler\tıp-donusumler\obj\Debug\net5.0\tıp-donusumler.csproj.CoreCompileInputs.cache
+C:\Users\ferhan\Desktop\Pratikler\tıp-donusumler\obj\Debug\net5.0\tıp-donusumler.dll
+C:\Users\ferhan\Desktop\Pratikler\tıp-donusumler\obj\Debug\net5.0\ref\tıp-donusumler.dll
+C:\Users\ferhan\Desktop\Pratikler\tıp-donusumler\obj\Debug\net5.0\tıp-donusumler.pdb
+C:\Users\ferhan\Desktop\Pratikler\tıp-donusumler\obj\Debug\net5.0\tıp-donusumler.genruntimeconfig.cache
